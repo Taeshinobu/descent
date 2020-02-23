@@ -30,6 +30,6 @@ Anything that can correctly parse .XML, .TXT and .LUA will do.
 * Clone/download the repository.
 * Create a new mod directory inside your Hearts of Iron 4's "mod" folder (must be named "descent"!).
 * Paste repository contents into said folder, with "descent.mod" being placed outside in the main folder itself.
-* LLaunch HoI4, and run "Descent."
+* Launch HoI4, and run "Descent."
 
 ----
