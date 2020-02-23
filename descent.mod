@@ -7,5 +7,3 @@ tags={
 }
 name="Descent"
 path="mod/descent"
-replace_path = "events"
-replace_path = "common/decisions"

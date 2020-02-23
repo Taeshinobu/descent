@@ -1,0 +1,25 @@
+add_namespace = worldhistory
+
+country_event = {
+	id = worldhistory.1
+	title = worldhistory.1.t
+	desc = worldhistory.1.d
+	picture = 
+	
+	major = yes 
+
+	is_triggered_only = no
+	
+	trigger = {
+		date > 1936.1.1  
+	}
+
+	mean_time_to_happen { days = 1 
+	}
+	
+
+	option = {
+		name = worldhistory.1.a
+		
+	}
+}
