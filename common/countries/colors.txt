@@ -559,3 +559,7 @@ FRI = {
 	color = rgb { 186 118 0 }
 	color_ui = rgb { 186 118 0 }
 }
+JPE = {
+	color = rgb { 237 237 237 }
+	color_ui = rgb { 237 237 237 }
+}
