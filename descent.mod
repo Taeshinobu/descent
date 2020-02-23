@@ -6,4 +6,4 @@ tags={
 	"Map"
 }
 name="Descent"
-path="C:/Users/kobel/Documents/Paradox Interactive/Hearts of Iron IV/mod/descent"
+path="mod/descent"
