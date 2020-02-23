@@ -8,16 +8,8 @@ country_event = {
 	
 	major = yes 
 
-	is_triggered_only = no
+	is_triggered_only = yes
 	
-	trigger = {
-		date > 1936.1.1  
-	}
-
-	mean_time_to_happen { days = 1 
-	}
-	
-
 	option = {
 		name = worldhistory.1.a
 		
