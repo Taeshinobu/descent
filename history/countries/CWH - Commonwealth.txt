@@ -1,0 +1,35 @@
+capital = 1
+
+set_research_slots = 3
+
+set_stability = 0.6
+set_war_support = 0.1
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = market_liberal
+}
+
+set_popularities = {
+	authoritarian_democrat = 4
+	social_conservative = 29
+	market_liberal = 38
+	social_liberal = 23
+	social_democrat = 6
+}
+
+set_convoys = 450
+
+create_country_leader = {
+	name = "Joseph Andrews"
+	desc = "POLITICS_Joseph_Andrews_DESC"
+	picture = "Portrait_Commonwealth_Joseph_Andrews.dds"
+	expire = "1965.1.1"
+	ideology = market_liberal
+	traits = {
+		#
+	}
+}
