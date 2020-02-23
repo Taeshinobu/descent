@@ -567,6 +567,6 @@ NAP = {
 	color = rgb { 85 17 133 }
 	color_ui = rgb { 85 17 133 }
 }
-JOS = {
+KRA = {
 	color = rgb { 0 164 235 }
 	color_ui = rgb { 0 154 235
