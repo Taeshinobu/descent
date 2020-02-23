@@ -1,0 +1,36 @@
+
+capital = 117
+
+set_research_slots = 3
+
+set_stability = 0.45
+set_war_support = 0.25
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = national_populist
+}
+
+set_popularities = {
+	social_conservative = 5
+	market_liberal = 15
+	social_democrat = 11
+	authoritarian_democrat = 5
+	national_populist = 64
+}
+
+set_convoys = 250
+
+create_country_leader = {
+	name = "Gino Porretta"
+	desc = "POLITICS_GINO_PORRETTA_DESC"
+	picture = "Portrait_Naples_Gino_Porretta"
+	expire = "1965.1.1"
+	ideology = national_populist
+	traits = {
+		#
+	}
+}

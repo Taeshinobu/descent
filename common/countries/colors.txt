@@ -563,3 +563,7 @@ JPE = {
 	color = rgb { 237 237 237 }
 	color_ui = rgb { 237 237 237 }
 }
+NAP = {
+	color = rgb { 85 17 133 }
+	color_ui = rgb { 85 17 133 }
+}
