@@ -1,0 +1,23 @@
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "evangelion.ogg"
+	volume = 0.65
+}
+music = {
+	name = "jojo"
+	file = "jojo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "kissme"
+	file = "kissme.ogg"
+	volume = 0.65
+}
+music = {
+	name = "mumble"
+	file = "mumble.ogg"
+	volume = 0.65
+}
+
+
