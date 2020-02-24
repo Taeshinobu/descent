@@ -1,7 +1,6 @@
-
 state={
-	id=152
-	name="STATE_152"
+	id=792
+	name="STATE_792"
 	manpower = 2275377
 	
 	state_category = city
@@ -12,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ALP
+		owner = BAV
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -32,7 +31,7 @@ state={
 		#victory_points = {
 		#	11612 3
 		#}
-		add_core_of = ALP
+		add_core_of = BAV
 
 		1938.3.12 = {
 			owner = XYZ
@@ -42,6 +41,6 @@ state={
 	}
 
 	provinces={
-		3673 3674 6687 6691 9650 11612
+		688 732 3684 3703 6708 9665
 	}
 }

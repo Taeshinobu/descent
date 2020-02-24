@@ -25,7 +25,7 @@ set_convoys = 0
 
 create_country_leader = {
 	name = "Jonas Hauf"
-	desc = "POLITICS_Jonas_Hauf_DESC"
+	desc = "POLITICS_JONAS_HAUF_DESC"
 	picture = "Portrait_Bavaria_Jonas_Hauf.dds"
 	expire = "1965.1.1"
 	ideology = social_conservative

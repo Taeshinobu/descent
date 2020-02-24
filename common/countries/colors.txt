@@ -569,4 +569,13 @@ NAP = {
 }
 JOS = {
 	color = rgb { 0 164 235 }
-	color_ui = rgb { 0 154 235
+	color_ui = rgb { 0 154 235 }
+}	
+ALP = {
+	color = rgb { 150 0 0 }
+	color_ui = rgb { 150 0 0 }
+}
+ITR = {
+	color = rgb { 14 89 31 }
+	color_ui = rgb { 14 89 31 }
+}

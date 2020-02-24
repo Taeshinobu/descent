@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = XYZ
+		owner = ALP
 		victory_points = {
 			673 5 
 		}
@@ -16,7 +16,7 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = XYZ
+		add_core_of = ALP
 
 		1938.3.12 = {
 			owner = XYZ

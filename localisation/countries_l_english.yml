@@ -2242,4 +2242,12 @@
  JOS_paternal_autocrat:1 "Joseon"
  JOS_paternal_autocrat_DEF:1 "Joseon"
  JOS_paternal_autocrat_ADJ:1 "Joseon"
-
+ 
+ ALP_social_democrat:1 "Alpine Federation"
+ ALP_social_democrat_DEF:1 "the Alpine Federation"
+ ALP_social_democrat_ADJ:1 "Alpine"
+ 
+ ITR_paternal_autocrat:1 "Italian Republic"
+ ITR_paternal_autocrat_DEF:1 "the Italian Republic"
+ ITR_paternal_autocrat_ADJ:1 "Italian"
+ 

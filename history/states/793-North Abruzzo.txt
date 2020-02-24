@@ -1,13 +1,12 @@
-
 state={
-	id=157
-	name="STATE_157"
+	id=793
+	name="STATE_793"
 	manpower = 2979335
 	
 	state_category = city
 
 	history={
-		owner = NAP
+		owner = ITR
 		victory_points = {
 			925 1 
 		}
@@ -21,10 +20,10 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = NAP
+		add_core_of = ITR
 	}
 
 	provinces={
-		963 3910 3923 3966 6831 9838 11790
+		925 967 6926 11861 
 	}
 }

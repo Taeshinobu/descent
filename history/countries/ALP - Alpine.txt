@@ -1,0 +1,35 @@
+capital = 1
+
+set_research_slots = 3
+
+set_stability = 0.25
+set_war_support = 0.05
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = social_democrat
+}
+
+set_popularities = {
+	social_democrat = 34
+	national_populist = 24
+	paternal_autocrat = 9
+	authoritarian_democrat = 9
+	social_conservative = 24
+}
+
+set_convoys = 0
+
+create_country_leader = {
+	name = "Samuele Lorenzetti"
+	desc = "POLITICS_SAMUELE_LORENZETTI_DESC"
+	picture = "Portrait_Alpine_Samuele_Lorenzetti.dds"
+	expire = "1965.1.1"
+	ideology = social_democrat
+	traits = {
+		#
+	}
+}
